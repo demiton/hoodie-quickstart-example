@@ -1,0 +1,24 @@
+{
+  "name": "hoodie-quickstart-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hoodie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demiton/hoodie-quickstart-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demiton/hoodie-quickstart-example/issues"
+  },
+  "homepage": "https://github.com/demiton/hoodie-quickstart-example#readme",
+  "devDependencies": {
+    "hoodie": "^28.2.6"
+  }
+}
